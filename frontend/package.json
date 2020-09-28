@@ -38,7 +38,7 @@
     "grunt-contrib-watch": "1.0.0",
     "grunt-ng-constant": "2.0.1",
     "grunt-postcss": "0.8.0",
-    "jquery": "^2.2.4",
+    "jquery": "^3.5.1",
     "load-grunt-tasks": "3.5.0",
     "requirejs": "2.2.0",
     "st": "1.2.0"
